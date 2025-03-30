@@ -1,0 +1,28 @@
+{
+  "C_Cpp.default.compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
+  "debug.onTaskErrors": "debugAnyway",
+  "workbench.iconTheme": "helium-icon-theme",
+  "explorer.confirmDelete": false,
+  "window.confirmSaveUntitledWorkspace": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.wordWrap": "on",
+  "workbench.colorTheme": "One Dark Pro Night Flat",
+  "workbench.colorCustomizations": {},
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.cursorBlinking": "phase",
+  "editor.suggest.insertMode": "replace",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.sortImports": "explicit"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "gitlens.ai.vscode.model": "",
+  "editor.tabSize": 2,
+  "editor.fontSize": 14
+}
